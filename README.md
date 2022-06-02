@@ -1,5 +1,5 @@
 # Introduction 
-Beryl is an open source project for dependencies scanning. 
+Beryl is an open source project for scanning vulnerabilities in your code and dependencies. 
 
 ## Todos
 
